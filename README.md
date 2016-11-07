@@ -36,3 +36,4 @@ Both Node server and frontend code runs with Babel. And all of it is linted. Wit
 
 ### Beautify
 With a beautify package installed in your editor it will also do that
+# code_challenge
